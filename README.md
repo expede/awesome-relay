@@ -29,8 +29,7 @@
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
 
 ## Videos
-- [Joseph Savona - Relay: An Application Framework For React at react-europe 2015](https://www.youtube.com/watch?v=IrgHurBjQbg)
-- [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
+- [Joseph Savona - Relay: An Application Framework For React](https://www.youtube.com/watch?v=IrgHurBjQbg) - Conceptual overview of Relay from the Facebook team.
 
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
