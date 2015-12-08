@@ -19,7 +19,7 @@
 - [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
 
 ## Tutorials
-- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk-throughs of hand-on Relay.
+- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk throughs of hand-on Relay.
 - [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9) - A complete workable example.
 
 ## Overviews
