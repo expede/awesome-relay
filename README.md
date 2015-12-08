@@ -12,6 +12,7 @@
 - [Libraries](https://github.com/expede/awesome-relay#libraries)
 - [Tooling](https://github.com/expede/awesome-relay#tooling)
 - [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
+- [License](https://github.com/expede/awesome-relay#license)
 
 # Learning Resources
 ## Documentation
