@@ -30,3 +30,6 @@ Awesome resources for [Relay](https://github.com/relay/relay)
 # Tooling
 - [GraphiQL](https://github.com/graphql/graphiql)
   - [GraphiQL App](https://github.com/skevy/graphiql-app) (seriously great!)
+
+# Miscellaneous
+- [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit)
