@@ -1,4 +1,4 @@
-# awesome-relay
+# Awesome Relay
 Awesome resources for [Relay](https://github.com/relay/relay)
 
 # Learning Resources
