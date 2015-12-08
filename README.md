@@ -12,9 +12,16 @@ Awesome resources for [Relay](https://github.com/relay/relay)
 ## Overviews
 - [React Data Fetching with Relay](http://www.sitepoint.com/react-data-fetching-with-relay/)
 
+## FAQs
+- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+
 ## Videos
 - [Joseph Savona - Relay: An Application Framework For React at react-europe 2015](https://www.youtube.com/watch?v=IrgHurBjQbg)
 - [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
 
+## Lists of Lists
+- [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
+
 # Libraries
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay)
+  - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65)
