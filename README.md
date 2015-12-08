@@ -1,6 +1,18 @@
 # Awesome Relay
 Awesome resources for [Relay](https://github.com/relay/relay)
 
+# Table of Contents
+- [Learning Resources](https://github.com/expede/awesome-relay#learning-resources)
+  - [Documentation](https://github.com/expede/awesome-relay#documentation)
+  - [Tutorials](https://github.com/expede/awesome-relay#tutorials)
+  - [Overviews](https://github.com/expede/awesome-relay#overviews)
+  - [FAQs](https://github.com/expede/awesome-relay#faqs)
+  - [Videos](https://github.com/expede/awesome-relay#videos)
+  - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
+- [Libraries](https://github.com/expede/awesome-relay#libraries)
+- [Tooling](https://github.com/expede/awesome-relay#tooling)
+- [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
+
 # Learning Resources
 ## Documentation
 - [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content)
