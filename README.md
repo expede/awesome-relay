@@ -1,5 +1,5 @@
 # Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome resources for [Relay](https://github.com/relay/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
+Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
 
 # Table of Contents
 - [Learning Resources](https://github.com/expede/awesome-relay#learning-resources)
