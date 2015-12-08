@@ -25,3 +25,7 @@ Awesome resources for [Relay](https://github.com/relay/relay)
 # Libraries
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay)
   - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65)
+
+# Tooling
+- [GraphiQL](https://github.com/graphql/graphiql)
+  - [GraphiQL App](https://github.com/skevy/graphiql-app) (seriously great!)
