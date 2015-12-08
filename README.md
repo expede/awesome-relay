@@ -16,17 +16,17 @@
 
 # Learning Resources
 ## Documentation
-- [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content)
+- [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
 
 ## Tutorials
-- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
-- [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9)
+- [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk-throughs of hand-on Relay.
+- [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1i64q1pf9) - A complete workable example.
 
 ## Overviews
-- [React Data Fetching with Relay](http://www.sitepoint.com/react-data-fetching-with-relay/)
+- [React Data Fetching with Relay](http://www.sitepoint.com/react-data-fetching-with-relay/) - Clear conceptual overview of Relay's moving parts and magic.
 
 ## FAQs
-- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47)
+- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
 
 ## Videos
 - [Joseph Savona - Relay: An Application Framework For React at react-europe 2015](https://www.youtube.com/watch?v=IrgHurBjQbg)
@@ -36,16 +36,15 @@
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
 
 # Libraries
-- [`react-router-relay`](https://github.com/relay-tools/react-router-relay)
-  - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65)
-- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) (Scala + Relay)
+- [`react-router-relay`](https://github.com/relay-tools/react-router-relay) - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases.
+  - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65) - A well-articulated walk through of `react-router-relay`, and the problems that it solves.
 
 # Tooling
-- [GraphiQL](https://github.com/graphql/graphiql)
-  - [GraphiQL App](https://github.com/skevy/graphiql-app) (seriously great!)
+- [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
+  - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
 
 # Miscellaneous
-- [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit)
+- [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 
 # License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
