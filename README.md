@@ -17,4 +17,4 @@ Awesome resources for [Relay](https://github.com/relay/relay)
 - [Building and Deploying Relay with Facebook](https://www.youtube.com/watch?v=Pxdgu2XIAAg)
 
 # Libraries
-- [https://github.com/relay-tools/react-router-relay](`react-router-relay`)
+- [`react-router-relay`](https://github.com/relay-tools/react-router-relay)
