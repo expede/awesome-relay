@@ -25,6 +25,7 @@ Awesome resources for [Relay](https://github.com/relay/relay)
 # Libraries
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay)
   - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65)
+- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) (Scala + Relay)
 
 # Tooling
 - [GraphiQL](https://github.com/graphql/graphiql)
