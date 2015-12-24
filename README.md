@@ -4,20 +4,28 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 # Table of Contents
 - [Learning Resources](https://github.com/expede/awesome-relay#learning-resources)
   - [Documentation](https://github.com/expede/awesome-relay#documentation)
+  - [FAQs](https://github.com/expede/awesome-relay#faqs)
   - [Tutorials](https://github.com/expede/awesome-relay#tutorials)
   - [Overviews](https://github.com/expede/awesome-relay#overviews)
-  - [FAQs](https://github.com/expede/awesome-relay#faqs)
   - [Example Implementations](https://github.com/expede/awesome-relay#example-implementations)
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
 - [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
   - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
-  - [Relay-Specific Server Support](https://github.com/expede/awesome-relay/blob/master/README.md#relay-specific-server-support)
   - [Tooling](https://github.com/expede/awesome-relay#tooling)
-- [Starter Kits](https://github.com/expede/awesome-relay#starter-kits)
+  - [Starter Kits](https://github.com/expede/awesome-relay#starter-kits)
+  - [Relay-Specific Server Support](https://github.com/expede/awesome-relay/blob/master/README.md#relay-specific-server-support)
+    - [Go](https://github.com/expede/awesome-relay/blob/master/README.md#go)
+    - [JavaScript](https://github.com/expede/awesome-relay/blob/master/README.md#javascript)
+    - [Python](https://github.com/expede/awesome-relay/blob/master/README.md#python)
+    - [Ruby](https://github.com/expede/awesome-relay/blob/master/README.md#ruby)
+    - [Scala](https://github.com/expede/awesome-relay/blob/master/README.md#scala)
 
 # Learning Resources
 ## Documentation
 - [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
+
+## FAQs
+- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
 
 ## Tutorials
 - [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/) - One of the few detailed walk throughs of hand-on Relay.
@@ -32,9 +40,6 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Facebook Relay talk - Lunch and Learn session](https://www.youtube.com/watch?v=sP3n-nht0Xo) - Walkthrough of building a simple app, and demonstration of [GraphiQL](https://github.com/graphql/graphiql).
 - [React with Relay and GraphQL with Andrew Smith](https://www.youtube.com/watch?v=Cfna8gwt9h8) - High level overview of Relay and GraphQL, with some useful discussion from the audience. Some discussion of other front-end frameworks, as well.
 - [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/) - Very clear set of diagrams laying out how the different parts of Relay relate to each other.
-
-## FAQs
-- [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
  
 ## Example Implementations
 - [Relay TODO MVC](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
@@ -58,23 +63,6 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`react-native-relay`](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
- 
-## Relay-Specific Server Support
-### JavaScipt
-- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
-
-### Ruby
-- [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
-
-### Python
-- [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
-
-### Scala
-- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
-
-### Go
-- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
-- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
@@ -82,7 +70,24 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
-# Starter Kits
+## Starter Kits
 - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
+- 
+### Relay-Specific Server Support
+#### Go
+- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+- 
+#### JavaScipt
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
+
+#### Python
+- [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
+- 
+#### Ruby
+- [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
+
+#### Scala
+- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
