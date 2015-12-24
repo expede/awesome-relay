@@ -37,7 +37,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 # Libraries & Packages
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay) - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases.
   - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.h91614i65) - A well-articulated walk through of `react-router-relay`, and the problems that it solves.
-- [`relay-decorators`](https://github.com/4Catalyzer/relay-decorators) - Simply syntax for Relay with ES7 decorators (`@` syntax)
+- [`relay-decorator`](https://github.com/4Catalyzer/relay-decorators) - Simply syntax for Relay with ES7 decorators (`@` syntax)
 
 # Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
