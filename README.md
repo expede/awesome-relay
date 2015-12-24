@@ -11,7 +11,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
 - [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
   - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
-  - [Other Language Support](https://github.com/expede/awesome-relay/blob/master/README.md#other-language-support)
+  - [Language Support](https://github.com/expede/awesome-relay/blob/master/README.md#language-support)
   - [Tooling](https://github.com/expede/awesome-relay#tooling)
 - [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
 
@@ -37,6 +37,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
  
 ## Example Implementations
+- [Relay TODO MVC](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
 - [`relay-chat`](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
 - [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) - "TODO" app with [`koa-graphql`](https://github.com/chentsulin/koa-graphql) and `relay`.
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
@@ -58,7 +59,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
  
-## Other Language Support
+## Language Support
 - [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
 - [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org) (Scala).
