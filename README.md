@@ -9,7 +9,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [FAQs](https://github.com/expede/awesome-relay#faqs)
   - [Videos](https://github.com/expede/awesome-relay#videos)
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
-- [Libraries & Packages](https://github.com/expede/awesome-relay#libraries)
+- [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
 - [Tooling](https://github.com/expede/awesome-relay#tooling)
 - [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
 - [License](https://github.com/expede/awesome-relay#license)
