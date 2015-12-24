@@ -7,6 +7,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Tutorials](https://github.com/expede/awesome-relay#tutorials)
   - [Overviews](https://github.com/expede/awesome-relay#overviews)
   - [FAQs](https://github.com/expede/awesome-relay#faqs)
+  - [Example Implementations](https://github.com/expede/awesome-relay#example-implementations)
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
 - [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
   - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
@@ -33,6 +34,9 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 
 ## FAQs
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
+ 
+## Example Implementations
+- [`relay-chat`](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
 
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
