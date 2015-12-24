@@ -67,7 +67,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
 
 ### Scala
-- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org) (Scala).
+- [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
 ### Go
 - [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
