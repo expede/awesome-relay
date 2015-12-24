@@ -11,9 +11,9 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
 - [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
   - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
-  - [Language Support](https://github.com/expede/awesome-relay/blob/master/README.md#language-support)
+  - [Relay-Specific Server Support](https://github.com/expede/awesome-relay/blob/master/README.md#relay-specific-server-support)
   - [Tooling](https://github.com/expede/awesome-relay#tooling)
-- [Sarter Kits](https://github.com/expede/awesome-relay#starter-kits)
+- [Starter Kits](https://github.com/expede/awesome-relay#starter-kits)
 
 # Learning Resources
 ## Documentation
