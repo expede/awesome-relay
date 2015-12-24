@@ -43,6 +43,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`relay-decorator`](https://github.com/4Catalyzer/relay-decorators) - Simply syntax for Relay containers with ES7 decorators (`@` syntax)
 - [`recompose-relay`](https://www.npmjs.com/package/recompose-relay) - Ease composition of Relay containers by currying and providing the component after the container.
 - [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
+- [`react-native-relay`](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
 
 # Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
