@@ -8,10 +8,10 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Overviews](https://github.com/expede/awesome-relay#overviews)
   - [FAQs](https://github.com/expede/awesome-relay#faqs)
   - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
-- [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
-- [Tooling](https://github.com/expede/awesome-relay#tooling)
+- [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
+  - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
+  - [Tooling](https://github.com/expede/awesome-relay#tooling)
 - [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
-- [License](https://github.com/expede/awesome-relay#license)
 
 # Learning Resources
 ## Documentation
@@ -36,7 +36,8 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
 
-# Libraries & Packages
+# Ecosystem
+## Libraries & Packages
 - [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 - [`react-router-relay`](https://github.com/relay-tools/react-router-relay) - `react-router` bindings for Relay. Greatly simplifies many local state UI uses cases.
@@ -48,7 +49,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`react-native-relay`](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 
-# Tooling
+## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
   - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
 
