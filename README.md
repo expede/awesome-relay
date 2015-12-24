@@ -59,7 +59,10 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
  
-## Language Support
+## Relay-Specific Server Support
+### JavaScipt
+- [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
+
 ### Ruby
 - [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
 
