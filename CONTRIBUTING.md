@@ -12,4 +12,4 @@ At this point you're waiting on us. We may suggest some changes or improvements 
 
 ## Code of Conduct
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
-[code-of-conduct]: http://todogroup.org/opencodeofconduct/#awesome-community/be.zelenka@gmail.com
+[code-of-conduct]: http://todogroup.org/opencodeofconduct/#awesome-relay/be.zelenka@gmail.com
