@@ -38,6 +38,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Example Implementations
 - [`relay-chat`](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
 - [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) - "TODO" app with [`koa-graphql`](https://github.com/chentsulin/koa-graphql) and `relay`.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
@@ -59,8 +60,11 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Other Language Support
 - [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
 - [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
-- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org) (Scala).
+
+### Go
+- [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
