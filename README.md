@@ -13,7 +13,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
   - [Language Support](https://github.com/expede/awesome-relay/blob/master/README.md#language-support)
   - [Tooling](https://github.com/expede/awesome-relay#tooling)
-- [Miscellaneous](https://github.com/expede/awesome-relay#miscellaneous)
+- [Sarter Kits](https://github.com/expede/awesome-relay#starter-kits)
 
 # Learning Resources
 ## Documentation
@@ -76,7 +76,10 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
   - [GraphiQL App](https://github.com/skevy/graphiql-app) - A standalone app for viewing GraphQL, introspection docs, and testing queries/mutations. Invaluable for debugging your Relay app.
+- [`relay-local-schema`](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
+- [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
-# Miscellaneous
+# Starter Kits
+- [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
