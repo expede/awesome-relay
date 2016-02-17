@@ -42,6 +42,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [React with Relay and GraphQL with Andrew Smith](https://www.youtube.com/watch?v=Cfna8gwt9h8) - High level overview of Relay and GraphQL, with some useful discussion from the audience. Some discussion of other front-end frameworks, as well.
 - [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/) - Very clear set of diagrams laying out how the different parts of Relay relate to each other.
 - [Relay: Seamless Syncing For React](http://www.slideshare.net/BrooklynZelenka/relay-seamless-syncing-for-react-vanjs) - An overview of what Relay is, and some discussion of experience using it in production.
+- [Cartoon Intro to Facebook's Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5#.acz9ialfw) - An overview of how Relay works, complete with illustrations.
  
 ## Example Implementations
 - [Relay TODO MVC](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
