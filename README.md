@@ -64,6 +64,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`react-native-relay`](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
+- [`babel-plugin-flow-relay-query`](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
 
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
