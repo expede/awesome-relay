@@ -2,23 +2,24 @@
 Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome](https://github.com/sindresorhus/awesome/) project
 
 # Table of Contents
-- [Learning Resources](https://github.com/expede/awesome-relay#learning-resources)
-  - [Documentation](https://github.com/expede/awesome-relay#documentation)
-  - [FAQs](https://github.com/expede/awesome-relay#faqs)
-  - [Tutorials](https://github.com/expede/awesome-relay#tutorials)
-  - [Overviews](https://github.com/expede/awesome-relay#overviews)
-  - [Example Implementations](https://github.com/expede/awesome-relay#example-implementations)
-  - [Lists of Lists](https://github.com/expede/awesome-relay#lists-of-lists)
-- [Ecosystem](https://github.com/expede/awesome-relay#ecosystem)
-  - [Libraries & Packages](https://github.com/expede/awesome-relay/blob/master/README.md#libraries--packages)
-  - [Tooling](https://github.com/expede/awesome-relay#tooling)
-  - [Starter Kits](https://github.com/expede/awesome-relay#starter-kits)
-  - [Relay-Specific Server Support](https://github.com/expede/awesome-relay/blob/master/README.md#relay-specific-server-support)
-    - [Go](https://github.com/expede/awesome-relay/blob/master/README.md#go)
-    - [JavaScript](https://github.com/expede/awesome-relay/blob/master/README.md#javascript)
-    - [Python](https://github.com/expede/awesome-relay/blob/master/README.md#python)
-    - [Ruby](https://github.com/expede/awesome-relay/blob/master/README.md#ruby)
-    - [Scala](https://github.com/expede/awesome-relay/blob/master/README.md#scala)
+- [Learning Resources](#learning-resources)
+  - [Documentation](#documentation)
+  - [FAQs](#faqs)
+  - [Tutorials](#tutorials)
+  - [Overviews](#overviews)
+  - [Example Implementations](#example-implementations)
+  - [Lists of Lists](#lists-of-lists)
+- [Ecosystem](#ecosystem)
+  - [Libraries & Packages](#libraries--packages)
+  - [Tooling](#tooling)
+  - [Starter Kits](starter-kits)
+  - [Relay-Specific Server Support](#relay-specific-server-support)
+    - [Go](#go)
+    - [JavaScript](#javascript)
+    - [Python](#python)
+    - [Ruby](h#ruby)
+    - [Scala](#scala)
+  - [Testing](#testing)
 
 # Learning Resources
 ## Documentation
@@ -102,3 +103,6 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 
 #### Scala
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
+
+# Testing
+- [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
