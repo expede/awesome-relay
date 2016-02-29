@@ -73,7 +73,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
 - [`relay-sink`](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 - [`babel-plugin-flow-relay-query`](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
-- [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay copatible with [`sequelize`](https://github.com/sequelize/sequelize).
+- [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection`](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
 
 ## Tooling
