@@ -13,13 +13,14 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
   - [Libraries & Packages](#libraries--packages)
   - [Tooling](#tooling)
   - [Starter Kits](starter-kits)
-  - [Relay-Specific Server Support](#relay-specific-server-support)
-    - [Go](#go)
-    - [JavaScript](#javascript)
-    - [Python](#python)
-    - [Ruby](h#ruby)
-    - [Scala](#scala)
-  - [Testing](#testing)
+- [Relay-Specific Server Support](#relay-specific-server-support)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+  - [Ruby](#ruby)
+    - [Rails](#rails)
+  - [Scala](#scala)
+- [Testing](#testing)
 
 # Learning Resources
 ## Documentation
@@ -88,22 +89,24 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
 
-### Relay-Specific Server Support
-#### Go
+# Relay-Specific Server Support
+## Go
 - [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
-#### JavaScipt
+## JavaScipt
 - [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
 
-#### Python
+## Python
 - [`graphql-relay-py`](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a `graphql-py` server supporting `react-relay`.
  
-#### Ruby
+## Ruby
 - [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
+### Rails
 - [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
+- [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
 
-#### Scala
+## Scala
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
 # Testing
