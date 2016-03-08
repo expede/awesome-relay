@@ -18,6 +18,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
     - [JavaScript](#javascript)
     - [Python](#python)
     - [Ruby](h#ruby)
+      - [Rails](#rails)
     - [Scala](#scala)
   - [Testing](#testing)
 
@@ -100,6 +101,8 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
  
 #### Ruby
 - [`graphql-relay-ruby`](https://github.com/rmosolgo/graphql-relay-ruby) - Relay helpers for GraphQL & Ruby.
+##### Rails
+- [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
 
 #### Scala
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
