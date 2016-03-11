@@ -77,6 +77,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`babel-plugin-flow-relay-query`](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
 - [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize`](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection`](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
+- [`relay-composite-network-layer`](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
 
 ## Tooling
 - [GraphiQL](https://github.com/graphql/graphiql) - A library to introspect GraphQL, test queries and mutations.
