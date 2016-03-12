@@ -11,7 +11,7 @@ We love pull requests from everyone. The only stipulation is that you ensure the
 At this point you're waiting on us. We may suggest some changes or improvements or alternatives. The maintainers reserve the right to reject any resource that we feel does not add new information, or does not adhere to the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/#awesome-community/be.zelenka@gmail.com)
 
 ## Notes on Resource Descriptions
-- There is _no need_ to mention that a package relies on GraphQL. This can be assumed :wink:
+- There is _no need_ to mention that a package relies on GraphQL or React. This can be assumed :wink:
 - Please link to other projects listed in the descriptions
 
 ## Code of Conduct
