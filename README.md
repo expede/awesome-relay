@@ -55,7 +55,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Relay TODO MVC](https://github.com/taion/relay-todomvc) - The classic TODO example app, written with Relay.
 - [`relay-chat`](https://github.com/transedward/relay-chat) - Relay with routing and pagination.
 - [`koa-graphql-relay-example`](https://github.com/chentsulin/koa-graphql-relay-example) - "TODO" app with [`koa-graphql`](https://github.com/chentsulin/koa-graphql) and `relay`.
-- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
+- [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 ## Lists of Lists
 - [Relay and GraphQL Introduction Materials](https://quip.com/oLxzA1gTsJsE)
@@ -86,10 +86,10 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
 ## Starter Kits
-- [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - React, Relay, GraphQL project skeleton.
+- [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
-- [Isomorphic Material Relay Starter Kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) - Isomorphic React, Relay, GraphQL starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
+- [Isomorphic Material Relay Starter Kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
 
 # Relay-Specific Server Support
 ## Go
