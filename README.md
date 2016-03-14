@@ -12,7 +12,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Ecosystem](#ecosystem)
   - [Libraries & Packages](#libraries--packages)
   - [Tooling](#tooling)
-  - [Starter Kits](starter-kits)
+  - [Starter Kits](#starter-kits)
 - [Relay-Specific Server Support](#relay-specific-server-support)
   - [Go](#go)
   - [JavaScript](#javascript)
