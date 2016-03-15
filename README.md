@@ -90,7 +90,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
 - [Isomorphic Material Relay Starter Kit](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) - Isomorphic Relay starter kit with examples. Uses Material-UI, Webpack, hot reload, Helmet, JWT. Utilizes Facebook Data Loader for persistence into in-memory structures and Cassandra.
-- [Rails Relay Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 
 # Relay-Specific Server Support
 ## Go
@@ -109,6 +109,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ### Rails
 - [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
 - [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
+- - [Relay on Rails Starter Kit](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 
 ## Scala
 - [`sangria-relay`](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
