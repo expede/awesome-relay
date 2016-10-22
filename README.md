@@ -101,7 +101,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 - [Go Relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
 - [`todomvc-relay-go`](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
-## JavaScipt
+## JavaScript
 - [`graphql-relay-js`](https://github.com/graphql/graphql-relay-js) - Simplifies creating a JS GraphQL server for `react-relay`.
 
 ## Python
