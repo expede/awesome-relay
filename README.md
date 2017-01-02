@@ -21,6 +21,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
     - [Rails](#rails)
   - [Scala](#scala)
 - [Testing](#testing)
+- [Videos](#videos)
 
 # Learning Resources
 ## Documentation
@@ -120,3 +121,6 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 # Testing
 - [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
+
+# Videos
+- [Relay 2 - simpler, faster, and more predictable](https://www.youtube.com/watch?v=OEfUBN9dAI8)
