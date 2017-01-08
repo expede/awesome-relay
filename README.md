@@ -90,6 +90,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 ## Starter Kits
 - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
+- [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter#readme) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit).
 - [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate)
 Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
