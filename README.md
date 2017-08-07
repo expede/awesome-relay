@@ -88,6 +88,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
 ## Starter Kits
+- [React Static Boilerplate](https://github.com/kriasoft/react-static-boilerplate) - Web app boilerplate based on `create-react-app` and `Relay Modern`
 - [Relay Skeleton](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
 - [Relay Starter Kit](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
