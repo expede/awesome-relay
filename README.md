@@ -24,7 +24,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 
 # Learning Resources
 ## Documentation
-- [Official Docs](https://facebook.github.io/relay/docs/getting-started.html#content) - Official Relay documentation.
+- [Official Docs](https://facebook.github.io/relay/docs/en/introduction-to-relay.html) - Official Relay documentation.
 
 ## FAQs
 - [Unofficial Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) - Common questions answered! Relay resources are scarce at the moment, so this is very helpful if you get stuck.
